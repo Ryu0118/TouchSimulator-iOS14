@@ -1,6 +1,6 @@
 #import "TouchSimulator.h"
 
-//To simulate System Wide Touch
+//To simulate touch in any apps (UIKit apps)
 %ctor {
   dispatch_after(dispatch_time(DISPATCH_TIME_NOW, 4.0 * NSEC_PER_SEC), dispatch_get_main_queue(), ^{
     simulateTouch(TOUCH_DOWN, 100, 100);
