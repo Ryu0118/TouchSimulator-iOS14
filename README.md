@@ -35,8 +35,4 @@ simulateTouch(TOUCH_UP, 100, 300);
 ```
 
 ### LongPress
-<<<<<<< HEAD
-comming soon...
-=======
-comming soon...
->>>>>>> 9653ea0a6c3b047884b24ad9665fc57082415a22
+coming soon...
