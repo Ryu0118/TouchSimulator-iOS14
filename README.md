@@ -3,7 +3,7 @@ Tweak to simulate touch.<br>
 Currently only works on native apps written in UIKit.<br>
 Also, it currently does not work on the keyboard.
 
-⚠️This library is only available on Jailbroken devices!
+⚠️**This library is only available on Jailbroken devices!**
 
 ```Logos
 #import "TouchSimulator.h"
