@@ -16,8 +16,8 @@ Also, it currently does not work on the keyboard.
 ```
 
 ## Usage 
-If you want to simulate touch in SystemWide, execute the `simulateTouch` in the `%ctor` block.
-If you do not require execution on SystemWide, execute the `simulateTouch` at any time.
+If you want to simulate touch in any app, execute the `simulateTouch` in the `%ctor` block.
+If you only simulate touch in certain applications, execute the `simulateTouch` at any time.
 
 Copy `TouchSimulator.xm`, `TouchSimulator.h` and `headers/` to your project directory
 
