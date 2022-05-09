@@ -1,6 +1,5 @@
 # TouchSimulator-iOS14
 Tweak to simulate touch.<br>
-Currently only works on native apps written in UIKit.<br>
 Also, it currently does not work on the keyboard.
 
 ```Logos
@@ -32,5 +31,3 @@ simulateTouch(TOUCH_MOVE, 100, 300);
 simulateTouch(TOUCH_UP, 100, 300);
 ```
 
-### LongPress
-coming soon...
