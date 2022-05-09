@@ -1,5 +1,5 @@
 # TouchSimulator-iOS14
-Tweak to simulate touch.<br>
+Simulate touch tool working on iOS14.<br>
 Also, it currently does not work on the keyboard.
 
 ```Logos
